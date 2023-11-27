@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# SPDX-FileCopyrightText: 2023 Shoma Furuy
+# SPDX-FileCopyrightText: 2023 Shoma Furuya 
 # SPDX-License-Identifier: BSD-3-Clause
 
 import sys
@@ -7,7 +7,7 @@ import sys
 ans = 0
 for line in sys.stdin:
     try:
-        ans += in(line)
+        ans += int(line)
     except:
         ans += float(line)
 
