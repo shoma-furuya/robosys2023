@@ -29,7 +29,7 @@ $ 15
 ## インストール方法
 以下のコマンドでインストール可能
 ```
-$ git clone git@github.com:shoma-furuya/robosys2023.git
+$ git clone https://github.com/shoma-furuya/robosys2023.git
 ```
 インストール後、以下のコマンドでディレクトリを移動すると、plusコマンドが使用可能
 ```
